@@ -10,6 +10,7 @@
 apply plugin: 'elasticsearch.java'
 apply plugin: 'application'
 
+
 group = 'org.elasticsearch.client'
 
 // Not published so no need to assemble
